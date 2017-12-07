@@ -1,0 +1,22 @@
+.App-header{
+  width: 968px;
+  margin: 0 auto;
+}
+
+.search-table-results {
+  width: 968px;
+}
+
+.section--center {
+  width: 968px;
+  margin-top: 40px;
+}
+
+.search-box {
+  width: 100%;
+}
+
+.search-box .mdl-textfield__input,
+.search-box .mdl-textfield__label {
+  font-size: 25px; 
+}
